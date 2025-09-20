@@ -1,6 +1,6 @@
 # Eniola Hannah - Portfolio Website
+<img width="1919" height="947" alt="Portfolio" src="https://github.com/user-attachments/assets/e5c86006-5af8-4836-ad3c-b78a622e90db" />
 
-<img width="959" height="473" alt="portfolio" src="https://github.com/user-attachments/assets/6a83af3e-1f37-469f-8a72-44603494d717" />
 
 This repository contains the source code for my personal **portfolio website**, designed to showcase my journey, skills, projects, certifications, and experiences as a **Data Scientist**.  
 
